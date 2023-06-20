@@ -1,0 +1,34 @@
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\webcam.exe
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\webcam.deps.json
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\webcam.runtimeconfig.json
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\webcam.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\webcam.pdb
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.xml
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.Video.xml
+D:\Kuliah\SEM6\PBKK\webcam\webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.xml
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.csproj.AssemblyReference.cache
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.Form1.resources
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.csproj.GenerateResource.cache
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.AssemblyInfoInputs.cache
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.AssemblyInfo.cs
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.csproj.CopyComplete
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\refint\webcam.dll
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.pdb
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\webcam.genruntimeconfig.cache
+D:\Kuliah\SEM6\PBKK\webcam\webcam\obj\Debug\net6.0-windows\ref\webcam.dll
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.Form1.resources
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.dll
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\refint\webcam.dll
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 2_Webcam\PBKK_WebcamApp\obj\Debug\net6.0-windows\webcam.pdb
